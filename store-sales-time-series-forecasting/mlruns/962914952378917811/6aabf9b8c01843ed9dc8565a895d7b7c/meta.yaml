@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/galvi/Documents/Repo/Kaggle/store-sales-time-series-forecasting/mlruns/962914952378917811/6aabf9b8c01843ed9dc8565a895d7b7c/artifacts
+end_time: 1755233639209
+entry_point_name: ''
+experiment_id: '962914952378917811'
+lifecycle_stage: active
+run_id: 6aabf9b8c01843ed9dc8565a895d7b7c
+run_name: rogue-worm-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755233633114
+status: 3
+tags: []
+user_id: galvi

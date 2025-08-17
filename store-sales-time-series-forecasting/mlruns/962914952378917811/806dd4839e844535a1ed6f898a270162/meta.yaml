@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/galvi/Documents/Repo/Kaggle/store-sales-time-series-forecasting/mlruns/962914952378917811/806dd4839e844535a1ed6f898a270162/artifacts
+end_time: 1755233891762
+entry_point_name: ''
+experiment_id: '962914952378917811'
+lifecycle_stage: active
+run_id: 806dd4839e844535a1ed6f898a270162
+run_name: chill-wren-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755233889041
+status: 4
+tags: []
+user_id: galvi

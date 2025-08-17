@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/galvi/Documents/Repo/Kaggle/store-sales-time-series-forecasting/mlruns/962914952378917811/models/m-0fcb465151be401ab774e702f04c9a05/artifacts
+creation_timestamp: 1755410028880
+experiment_id: '962914952378917811'
+last_updated_timestamp: 1755410030905
+model_id: m-0fcb465151be401ab774e702f04c9a05
+model_type: null
+name: baseline_tree_model
+source_run_id: 9af07c81ed3a493592bf194137b59a33
+status: 2
+status_message: null

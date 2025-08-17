@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/galvi/Documents/Repo/Kaggle/store-sales-time-series-forecasting/mlruns/962914952378917811/models/m-0fcb465151be401ab774e702f04c9a05/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-0fcb465151be401ab774e702f04c9a05
+model_size_bytes: 2303637
+model_uuid: m-0fcb465151be401ab774e702f04c9a05
+prompts: null
+run_id: 9af07c81ed3a493592bf194137b59a33
+utc_time_created: '2025-08-17 05:53:48.906582'

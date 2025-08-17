@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/galvi/Documents/Repo/Kaggle/store-sales-time-series-forecasting/mlruns/962914952378917811/9af07c81ed3a493592bf194137b59a33/artifacts
+end_time: 1755410030913
+entry_point_name: ''
+experiment_id: '962914952378917811'
+lifecycle_stage: active
+run_id: 9af07c81ed3a493592bf194137b59a33
+run_name: treasured-sponge-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755410026144
+status: 3
+tags: []
+user_id: galvi

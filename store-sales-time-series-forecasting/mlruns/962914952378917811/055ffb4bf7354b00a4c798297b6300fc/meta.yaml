@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/galvi/Documents/Repo/Kaggle/store-sales-time-series-forecasting/mlruns/962914952378917811/055ffb4bf7354b00a4c798297b6300fc/artifacts
+end_time: 1755409980230
+entry_point_name: ''
+experiment_id: '962914952378917811'
+lifecycle_stage: active
+run_id: 055ffb4bf7354b00a4c798297b6300fc
+run_name: debonair-mare-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755409974028
+status: 3
+tags: []
+user_id: galvi

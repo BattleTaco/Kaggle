@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/galvi/Documents/Repo/Kaggle/store-sales-time-series-forecasting/mlruns/962914952378917811/b171df5acb7848a1a0bf3c5cef8ae4b0/artifacts
+end_time: 1755233552499
+entry_point_name: ''
+experiment_id: '962914952378917811'
+lifecycle_stage: active
+run_id: b171df5acb7848a1a0bf3c5cef8ae4b0
+run_name: adorable-stag-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755233509512
+status: 4
+tags: []
+user_id: galvi

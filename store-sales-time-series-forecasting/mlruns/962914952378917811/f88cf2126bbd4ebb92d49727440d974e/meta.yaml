@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/galvi/Documents/Repo/Kaggle/store-sales-time-series-forecasting/mlruns/962914952378917811/f88cf2126bbd4ebb92d49727440d974e/artifacts
+end_time: 1755409703110
+entry_point_name: ''
+experiment_id: '962914952378917811'
+lifecycle_stage: active
+run_id: f88cf2126bbd4ebb92d49727440d974e
+run_name: exultant-sloth-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755409700148
+status: 4
+tags: []
+user_id: galvi
